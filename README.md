@@ -1,2 +1,0 @@
-# marcus-thompson
-parasite distribution
